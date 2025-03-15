@@ -1,0 +1,9 @@
+[
+    {
+        "title": "why peoples hurts ?",
+        "author": "Tanzeel Bhai",
+        "year": "2025",
+        "genre": "mystery",
+        "read": true
+    }
+]
